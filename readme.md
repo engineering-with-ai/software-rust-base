@@ -1,6 +1,6 @@
 # [base] 🦀
-![](https://img.shields.io/gitlab/pipeline-status/agent-framework/rust-base?branch=main&logo=gitlab)
-![](https://gitlab.com/agent-framework/rust-base/badges/main/coverage.svg)
+![](https://img.shields.io/gitlab/pipeline-status/engineering-with-ai/software-rust-base?branch=main&logo=gitlab)
+![](https://gitlab.com/engineering-with-ai/software-rust-base/badges/main/coverage.svg)
 ![](https://img.shields.io/badge/1.90-gray?logo=rust)
 
 ## Pre-Requisites
